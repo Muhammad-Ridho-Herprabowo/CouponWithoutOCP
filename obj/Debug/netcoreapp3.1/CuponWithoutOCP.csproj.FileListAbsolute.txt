@@ -1,0 +1,4 @@
+E:\Kampus\Program\CuponWithoutOCP\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Kampus\Program\CuponWithoutOCP\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Kampus\Program\CuponWithoutOCP\obj\Debug\netcoreapp3.1\CuponWithoutOCP_MarkupCompile.cache
+E:\Kampus\Program\CuponWithoutOCP\obj\Debug\netcoreapp3.1\CuponWithoutOCP_MarkupCompile.lref
